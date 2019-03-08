@@ -1,0 +1,21 @@
+@font-face {
+font-family: 'SEGA LOGO FONT';
+src: url('./SEGA.TTF') format('truetype');
+}
+@font-face {
+font-family: 'ROBOT FONT';
+src: url('./ROBOTS.ttf') format('truetype');
+}
+
+.heading {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 300;
+  color: orange;
+}
+
+h2{
+  font-family: 'ROBOT FONT';
+  font-weight: 300;
+  color: beige;
+}
+
